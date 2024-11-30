@@ -8,4 +8,4 @@ Material de apoyo para el curso **Diseño de experiencias de aprendizaje con IA 
 - [Guía de apoyo: Prácticas con herramientas de Inteligencia Artificial](https://colab.research.google.com/github/FerneyOAmaya/AdmonIA/blob/main/HerramientasIA.ipynb)
 
 ## Sesión 3
-- [Archivo Tutorial Power BI](https://github.com/FerneyOAmaya/AdmonIA/blob/main/FinancialSample.xlsx)
+- [Archivo en excel para el Tutorial en Power BI](https://github.com/FerneyOAmaya/AdmonIA/blob/main/FinancialSample.xlsx)
